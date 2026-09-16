@@ -1,0 +1,4 @@
+D:/Gen-Ai/Gen-Ai/Mobile applications/Mobileapp-v3/mobile/android/app/.cxx/Debug/6k603h6w/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+D:/Gen-Ai/Gen-Ai/Mobile applications/Mobileapp-v3/mobile/android/app/.cxx/Debug/6k603h6w/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+D:/Gen-Ai/Gen-Ai/Mobile applications/Mobileapp-v3/mobile/android/app/.cxx/Debug/6k603h6w/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+D:/Gen-Ai/Gen-Ai/Mobile applications/Mobileapp-v3/mobile/android/app/.cxx/Debug/6k603h6w/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
