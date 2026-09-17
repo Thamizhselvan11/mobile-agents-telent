@@ -1,0 +1,57 @@
+ninja: Entering directory `C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\.cxx\RelWithDebInfo\3l1ye2q3\x86_64'
+[0/2] Re-checking globbed directories...
+[1/55] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/599561175091c45089d89bd771c9ed5c/safeareacontext/States.cpp.o
+[2/55] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/599561175091c45089d89bd771c9ed5c/safeareacontext/EventEmitters.cpp.o
+[3/55] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/cce4111147de6f446f0711728ba4f660/jni/safeareacontext-generated.cpp.o
+[4/55] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/a5bf27cc0d506c33365fd6c673dc93f1/RNCSafeAreaViewState.cpp.o
+[5/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSFormSheetHostShadowNode.cpp.o
+[6/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSFullWindowOverlayShadowNode.cpp.o
+[7/55] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/599561175091c45089d89bd771c9ed5c/safeareacontext/ShadowNodes.cpp.o
+[8/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSModalScreenShadowNode.cpp.o
+[9/55] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/c3b645bb09636224da32453bc8a984e4/ComponentDescriptors.cpp.o
+[10/55] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/599561175091c45089d89bd771c9ed5c/safeareacontext/Props.cpp.o
+[11/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/f08b10322cc370ef94c4c07c782484c8/components/rnscreens/RNSFormSheetHostState.cpp.o
+[12/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/f08b10322cc370ef94c4c07c782484c8/components/rnscreens/RNSScreenShadowNode.cpp.o
+[13/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/f08b10322cc370ef94c4c07c782484c8/components/rnscreens/RNSSafeAreaViewState.cpp.o
+[14/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSScreenStackHeaderConfigState.cpp.o
+[15/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSScreenStackHeaderSubviewState.cpp.o
+[16/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSScreenShadowNodeCommitHook.cpp.o
+[17/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSSafeAreaViewShadowNode.cpp.o
+[18/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSSplitScreenShadowNode.cpp.o
+[19/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/bca419ec0ff5d9814a14771b5517d9af/RNSScreenStackHeaderConfigShadowNode.cpp.o
+[20/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSStackHeaderConfigShadowNode.cpp.o
+[21/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/bca419ec0ff5d9814a14771b5517d9af/RNSScreenStackHeaderSubviewShadowNode.cpp.o
+[22/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSStackHeaderConfigState.cpp.o
+[23/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/f08b10322cc370ef94c4c07c782484c8/components/rnscreens/RNSScreenState.cpp.o
+[24/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSStackHeaderItemState.cpp.o
+[25/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/f08b10322cc370ef94c4c07c782484c8/components/rnscreens/RNSStackScreenState.cpp.o
+[26/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/f08b10322cc370ef94c4c07c782484c8/components/rnscreens/RNSTabsHostState.cpp.o
+[27/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSStackScreenShadowNode.cpp.o
+[28/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/f08b10322cc370ef94c4c07c782484c8/components/rnscreens/RNSTabsHostShadowNode.cpp.o
+[29/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSStackHeaderSubviewShadowNode.cpp.o
+[30/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSStackHeaderSubviewState.cpp.o
+[31/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSStackHeaderItemShadowNode.cpp.o
+[32/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/5d854c9482b05d33d8bda7c154f721a5/rnscreens/RNSTabsBottomAccessoryShadowNode.cpp.o
+[33/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/dac4b235783a1711a0cfc16e44fbd56c/renderer/components/rnscreens/ShadowNodes.cpp.o
+[34/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/rnscreens.cpp.o
+[35/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/fdfad01b83eea699649b294772fea6e5/react/renderer/components/rnscreens/States.cpp.o
+[36/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/e5f0f156ff74b2d2a95fdfee0646b3c0/renderer/components/rnsvg/RNSVGLayoutableShadowNode.cpp.o
+[37/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/dac4b235783a1711a0cfc16e44fbd56c/renderer/components/rnscreens/EventEmitters.cpp.o
+[38/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/2382f0cc7942e23b43fdd0dbaf9dc0e3/cpp/react/renderer/components/rnsvg/RNSVGImageState.cpp.o
+[39/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/48c3c16aebbbeb4b8da614af0df511be/react/renderer/components/rnsvg/RNSVGShadowNodes.cpp.o
+[40/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/e5f0f156ff74b2d2a95fdfee0646b3c0/renderer/components/rnsvg/RNSVGImageShadowNode.cpp.o
+[41/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/b2ea1202f9cebcb9bf44e1bd3ee3352e/jni/react/renderer/components/rnsvg/ShadowNodes.cpp.o
+[42/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/rnsvg.cpp.o
+[43/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/b2ea1202f9cebcb9bf44e1bd3ee3352e/jni/react/renderer/components/rnsvg/EventEmitters.cpp.o
+[44/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/ed70d8c0491c07f0d390c3981a1e88bd/codegen/jni/react/renderer/components/rnsvg/States.cpp.o
+[45/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/931fcbe5a6c228525a902075a759a093/renderer/components/rnsvg/ComponentDescriptors.cpp.o
+[46/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/9e78b22e5c4656611f7905ac4a5ebdfc/components/rnscreens/ComponentDescriptors.cpp.o
+[47/55] Building CXX object CMakeFiles/appmodules.dir/OnLoad.cpp.o
+[48/55] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/fdfad01b83eea699649b294772fea6e5/react/renderer/components/rnscreens/Props.cpp.o
+[49/55] Linking CXX shared library C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\intermediates\cxx\RelWithDebInfo\3l1ye2q3\obj\x86_64\libreact_codegen_rnscreens.so
+[50/55] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/a5bf27cc0d506c33365fd6c673dc93f1/RNCSafeAreaViewShadowNode.cpp.o
+[51/55] Linking CXX shared library C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\intermediates\cxx\RelWithDebInfo\3l1ye2q3\obj\x86_64\libreact_codegen_safeareacontext.so
+[52/55] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/ed70d8c0491c07f0d390c3981a1e88bd/codegen/jni/react/renderer/components/rnsvg/Props.cpp.o
+[53/55] Linking CXX shared library C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\intermediates\cxx\RelWithDebInfo\3l1ye2q3\obj\x86_64\libreact_codegen_rnsvg.so
+[54/55] Building CXX object CMakeFiles/appmodules.dir/C_/Users/shyamprakash.a/mobile-agents-telent/mobile/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+[55/55] Linking CXX shared library C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\intermediates\cxx\RelWithDebInfo\3l1ye2q3\obj\x86_64\libappmodules.so

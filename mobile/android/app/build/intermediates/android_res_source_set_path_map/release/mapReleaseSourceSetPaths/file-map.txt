@@ -1,0 +1,10 @@
+com.createauditapp-pngs-0 C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\generated\res\pngs\release
+com.createauditapp-react-1 C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\generated\res\react\release
+com.createauditapp-resValues-2 C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\generated\res\resValues\release
+com.createauditapp-updated_navigation_xml-3 C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\generated\updated_navigation_xml\release
+com.createauditapp-packageReleaseResources-4 C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.createauditapp-packageReleaseResources-5 C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.createauditapp-release-6 C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.createauditapp-main-7 C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\src\main\res
+com.createauditapp-release-8 C:\Users\shyamprakash.a\mobile-agents-telent\mobile\android\app\src\release\res
+gradleHome-0 C:\Users\shyamprakash.a\.gradle

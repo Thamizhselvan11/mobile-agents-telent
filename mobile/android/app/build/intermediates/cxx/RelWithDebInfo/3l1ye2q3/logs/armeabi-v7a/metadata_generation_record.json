@@ -1,0 +1,72 @@
+[
+{
+  "message": "Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "rebuilding JSON C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\android\\app\\.cxx\\RelWithDebInfo\\3l1ye2q3\\armeabi-v7a\\android_gradle_build.json due to:",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "- no fingerprint file, will remove stale configuration folder",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "@echo off\n\"C:\\\\Program Files\\\\Java\\\\jdk-17\\\\bin\\\\java\" ^\n  --enable-native-access ^\n  ALL-UNNAMED ^\n  --class-path ^\n  \"C:\\\\Users\\\\shyamprakash.a\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.1.0\\\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\\\cli-2.1.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  armeabi-v7a ^\n  --os-version ^\n  24 ^\n  --stl ^\n  c++_shared ^\n  --ndk-version ^\n  27 ^\n  --output ^\n  \"C:\\\\Users\\\\SHYAMP~1.A\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging5827929407509633553\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\shyamprakash.a\\\\.gradle\\\\caches\\\\9.4.1\\\\transforms\\\\83daf106ead88e7e3c5ea19248e78529\\\\transformed\\\\react-android-0.87.1-release\\\\prefab\" ^\n  \"C:\\\\Users\\\\shyamprakash.a\\\\.gradle\\\\caches\\\\9.4.1\\\\transforms\\\\4b1201a8cff028773266549fc58b8a24\\\\transformed\\\\hermes-android-250829098.0.17-release\\\\prefab\" ^\n  \"C:\\\\Users\\\\shyamprakash.a\\\\.gradle\\\\caches\\\\9.4.1\\\\transforms\\\\3cb1792e16d0777e9535521c99f0b7b5\\\\transformed\\\\fbjni-0.7.0\\\\prefab\"\n",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "Received process result: 0",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "removing stale contents from \u0027C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\android\\app\\.cxx\\RelWithDebInfo\\3l1ye2q3\\armeabi-v7a\u0027",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "created folder \u0027C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\android\\app\\.cxx\\RelWithDebInfo\\3l1ye2q3\\armeabi-v7a\u0027",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "executing cmake @echo off\n\"C:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\node_modules\\\\react-native\\\\ReactAndroid\\\\cmake-utils\\\\default-app-setup\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darmeabi-v7a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3l1ye2q3\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3l1ye2q3\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\.cxx\\\\RelWithDebInfo\\\\3l1ye2q3\\\\prefab\\\\armeabi-v7a\\\\prefab\" ^\n  \"-BC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\.cxx\\\\RelWithDebInfo\\\\3l1ye2q3\\\\armeabi-v7a\" ^\n  -GNinja ^\n  \"-DPROJECT_BUILD_DIR\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\build\" ^\n  \"-DPROJECT_ROOT_DIR\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\" ^\n  \"-DREACT_ANDROID_DIR\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\node_modules\\\\react-native\\\\ReactAndroid\" ^\n  \"-DANDROID_STL\u003dc++_shared\" ^\n  \"-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\"\n",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "@echo off\n\"C:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\node_modules\\\\react-native\\\\ReactAndroid\\\\cmake-utils\\\\default-app-setup\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darmeabi-v7a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\shyamprakash.a\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3l1ye2q3\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3l1ye2q3\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\.cxx\\\\RelWithDebInfo\\\\3l1ye2q3\\\\prefab\\\\armeabi-v7a\\\\prefab\" ^\n  \"-BC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\.cxx\\\\RelWithDebInfo\\\\3l1ye2q3\\\\armeabi-v7a\" ^\n  -GNinja ^\n  \"-DPROJECT_BUILD_DIR\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\\\\app\\\\build\" ^\n  \"-DPROJECT_ROOT_DIR\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\android\" ^\n  \"-DREACT_ANDROID_DIR\u003dC:\\\\Users\\\\shyamprakash.a\\\\mobile-agents-telent\\\\mobile\\\\node_modules\\\\react-native\\\\ReactAndroid\" ^\n  \"-DANDROID_STL\u003dc++_shared\" ^\n  \"-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\"\n",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "Received process result: 0",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "Exiting generation of C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\android\\app\\.cxx\\RelWithDebInfo\\3l1ye2q3\\armeabi-v7a\\compile_commands.json.bin normally",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "done executing cmake",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "hard linked C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\android\\app\\.cxx\\RelWithDebInfo\\3l1ye2q3\\armeabi-v7a\\compile_commands.json to C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\android\\app\\.cxx\\tools\\release\\armeabi-v7a\\compile_commands.json",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+},
+{
+  "message": "JSON generation completed without problems",
+  "file": "C:\\Users\\shyamprakash.a\\mobile-agents-telent\\mobile\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+  "tag": "release|armeabi-v7a"
+}
+]
